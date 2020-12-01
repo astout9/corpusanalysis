@@ -1,0 +1,825 @@
+!!!COM: Arr. Moyses Santos
+!!!OTL: Liar
+**kern
+*part1
+*staff1
+*
+*
+*clefG2
+*k[f#c#]
+*b:
+*M4/4
+*MM96
+=1
+!LO:TX:a:t=[quarter]=96
+16r
+16f#LL
+16b
+16cc#JJ
+8.f#L 8.dd
+16f#Jk
+16bLL
+16cc#
+16b 16dd
+16cc#JJ
+12bL 12ee
+12dd
+12cc#J
+=2
+12f#L 12dd
+12f# 12dd
+12eJ 12cc#
+8e 8b
+8r
+2r
+=3
+16r
+16f#LL
+16b
+16cc#JJ
+8.f#L 8.dd
+16f#Jk
+16bLL
+16cc#J
+8bJ 8dd
+8cc#L 8ff#
+8ddJ 8aa
+!!linebreak:original
+=4
+4ee 4gg
+4r
+2r
+=5||
+*^
+8raa	8ryy
+16raa	16ryy
+16dd	4f#
+8cc#L	.
+8bJ	.
+.	16ryy
+8raa	8ryy
+16raa	16ryy
+16dd	4f#
+8cc#L	.
+8bJ	.
+.	16ryy
+=6	=6
+8raa	8ryy
+16raa	16ryy
+16dd	4f#
+8cc#L	.
+8bJ	.
+.	16ryy
+8bL 8ee	2ryy
+8bJ 8dd	.
+(8.bL 8.dd	.
+16bJk)	.
+!!linebreak:original
+=7	=7
+8raa	8ryy
+16raa	16ryy
+16dd	4f#
+8cc#L	.
+8bJ	.
+.	16ryy
+8raa	8ryy
+16raa	16ryy
+16dd	4f#
+8c#L 8cc#	.
+8dJ 8b	.
+.	16ryy
+*v	*v
+=8
+4e 4g
+8r
+16r
+(16f#
+16gLL
+16f#
+16g
+16f#JJ
+8aL)
+16gL
+16f#JJ
+=9
+*^
+8raa	8ryy
+16raa	16ryy
+16dd	4f#
+8cc#L	.
+8bJ	.
+.	16ryy
+8raa	8ryy
+16raa	16ryy
+16dd	4f#
+8cc#L	.
+8bJ	.
+.	16ryy
+!!linebreak:original
+=10	=10
+8raa	8ryy
+16raa	16ryy
+16dd	4f#
+8cc#L	.
+8bJ	.
+.	16ryy
+8bL 8ee	2ryy
+8bJ 8dd	.
+(8.bL 8.dd	.
+16bJk)	.
+=11	=11
+8raa	8ryy
+16raa	16ryy
+16dd	4f#
+8cc#L	.
+8bJ	.
+.	16ryy
+8raa	8ryy
+16raa	16ryy
+16dd	4f#
+8c#L 8cc#	.
+8dJ 8b	.
+.	16ryy
+*v	*v
+=12
+4e 4g
+4r
+2r
+!!linebreak:original
+=13||
+8b 8dd
+16r
+8bL 8dd
+16cc#k 16ee
+8ddJ 8ff#
+8ddL 8gg
+8ddJ 8ff#
+4b 4dd
+=14
+16bLL 16ee
+16bJJ 16ee
+16r
+8.bL 8.ee
+8bJ 8ee
+2r
+=15
+8b 8dd
+16r
+8bL 8dd
+16cc#k 16ee
+8ddJ 8ff#
+8ddL 8gg
+8ddJ 8ff#
+4b 4dd
+=16
+16bLL 16ee
+16bJJ 16ee
+16r
+8.bL 8.dd
+8f#J 8b
+2r
+!!pagebreak:original
+=17
+8f#L 8b
+8f#J 8b
+8f# 8dd
+16gKL 16ee
+8aJ 8ff#
+8r
+8aL 8ff#
+16bk 16ff#
+8ddJ 8ff#
+=18
+8eeL 8gg
+8eeJ 8gg
+8r
+16bLL
+16bJJ
+8eeL 8gg
+16ff#k 16aa
+8ee 8gg
+16ddk 16ff#
+8ddJ 8ff#
+=19
+*^
+8f#L 8b	2ryy
+8f#J 8b	.
+8f# 8dd	.
+16gKL 16ee	.
+8aJ 8ff#	.
+.	8ryy
+8raa	.
+.	16ryy
+8ggL	4b
+16ff#L	.
+16dd	.
+16bJJ	16ryy
+*v	*v
+=20
+8bL 8ee
+8bJ 8ee
+4r
+[16%3bL 16%3ee
+16%3b] 16%3dd
+8bJ
+!!linebreak:original
+=21
+8f#L 8b
+8f#J 8b
+8f# 8dd
+16gKL 16ee
+8aJ 8ff#
+16r
+16r
+8bL 8aa
+16bk 16gg
+8ddJ 8ff#
+=22
+8eeL 8gg
+8eeJ 8gg
+8r
+16bLL
+16bJJ
+8eeL 8gg
+16ff#k 16aa
+8ee 8gg
+16ddk 16ff#
+8ddJ 8ff#
+=23
+*^
+8f#L 8b	2ryy
+8f#J 8b	.
+8f# 8dd	.
+16gKL 16ee	.
+8aJ 8ff#	.
+.	8ryy
+8raa	.
+.	16ryy
+8ggL	4b
+16ff#L	.
+16dd	.
+16bJJ	16ryy
+*v	*v
+!!linebreak:original
+=24
+8bL 8ee
+8bJ 8ee
+4r
+[16%3bL 16%3ee
+16%3b] 16%3dd
+8bJ
+=25||
+2.B
+4r
+=26
+*^
+8raa	8ryy
+16raa	16ryy
+16dd	4f#
+8cc#L	.
+8bJ	.
+.	16ryy
+8raa	8ryy
+16raa	16ryy
+16dd	4f#
+8cc#L	.
+8bJ	.
+.	16ryy
+=27	=27
+8raa	8ryy
+16raa	16ryy
+16dd	4f#
+8cc#L	.
+8bJ	.
+.	16ryy
+8bL 8ee	2ryy
+8bJ 8dd	.
+(8.bL 8.dd	.
+16bJk)	.
+!!linebreak:original
+=28	=28
+8raa	8ryy
+16raa	16ryy
+16dd	4f#
+8cc#L	.
+8bJ	.
+*v	*v
+8raa
+16bKL
+8f#J 8dd
+16f#KL 16dd
+8f#J 8b 8ff#
+=29
+8e 8g 8ee
+16r
+16cc#
+16bLL
+16aJ
+8bJ
+16ddLL
+16cc#
+(16dd
+16cc#JJ
+16ddLL
+16cc#
+16dd
+16bJJ)
+=30
+8r
+16r
+8.ff#L 8.bb
+16ff#Jk 16bb
+16r
+8r
+16r
+*8va
+16eee
+8dddL
+8eeeJ
+!!linebreak:original
+=31
+8r
+16r
+16eee
+8dddL
+8ccc#J
+8r
+16r
+16ccc#
+8dddL
+*X8va
+8bbJ
+=32
+2r
+8r
+16eeKL
+8ff# 8ddd
+16ggk 16eee
+8bbJ 8fff#
+=33
+8bb 8eee
+16r
+16ccc#
+16bbLL
+16aaJ
+8bbJ
+2r
+!!linebreak:original
+=34||
+8b 8dd
+16r
+8bL 8dd
+16cc#k 16ee
+8ddJ 8ff#
+8ddL 8gg
+8ddJ 8ff#
+4b 4dd
+=35
+16bLL 16ee
+16bJJ 16ee
+16r
+8.bL 8.ee
+8bJ 8ee
+2r
+=36
+8b 8dd
+16r
+8bL 8dd
+16cc#k 16ee
+8ddJ 8ff#
+8ddL 8gg
+8ddJ 8ff#
+4b 4dd
+=37
+16bLL 16ee
+16bJJ 16ee
+16r
+8.bL 8.dd
+8f#J 8b
+2r
+!!pagebreak:original
+=38||
+8f#L 8b
+8f#J 8b
+8f# 8dd
+16gKL 16ee
+8aJ 8ff#
+8r
+8aL 8ff#
+16bk 16ff#
+8ddJ 8ff#
+=39
+8eeL 8gg
+8eeJ 8gg
+8r
+16bLL
+16bJJ
+8eeL 8gg
+16ff#k 16aa
+8ee 8gg
+16ddk 16ff#
+8ddJ 8ff#
+=40
+*^
+8f#L 8b	2ryy
+8f#J 8b	.
+8f# 8dd	.
+16gKL 16ee	.
+8aJ 8ff#	.
+.	8ryy
+8raa	.
+.	16ryy
+8ggL	4b
+16ff#L	.
+16dd	.
+16bJJ	16ryy
+*v	*v
+=41
+8bL 8ee
+8bJ 8ee
+4r
+[16%3bL 16%3ee
+16%3b] 16%3dd
+8bJ
+!!linebreak:original
+=42
+8f#L 8b
+8f#J 8b
+8f# 8dd
+16gKL 16ee
+8aJ 8ff#
+16r
+16r
+8bL 8aa
+16bk 16gg
+8ddJ 8ff#
+=43
+8eeL 8gg
+8eeJ 8gg
+8r
+16bLL
+16bJJ
+8eeL 8gg
+16ff#k 16aa
+8ee 8gg
+16ddk 16ff#
+8ddJ 8ff#
+=44
+*^
+8f#L 8b	2ryy
+8f#J 8b	.
+8f# 8dd	.
+16gKL 16ee	.
+8aJ 8ff#	.
+.	8ryy
+8raa	.
+.	16ryy
+8ggL	4b
+16ff#L	.
+16dd	.
+16bJJ	16ryy
+*v	*v
+!!linebreak:original
+=45
+8bL 8ee
+8bJ 8ee
+4r
+16%3eeL 16%3eee
+16%3dd 16%3ddd
+8cc#J 8ccc#
+=46||
+8b
+16r
+8bL 8ff# 8bb
+16ddk
+8bJ
+8bL 8dd
+8bJ 8ee
+4b 4ff#
+=47
+16%3eL 16%3g 16%3b 16%3ee
+16%3eJ 16%3g 16%3b 16%3ee
+4.g 4.b 4.ee 4.gg
+4f# 4b 4ee 4ff#
+=48
+8f# 8b
+16r
+8bL 8ff# 8bb
+16ddk
+8bJ
+8bL 8dd
+8bJ 8ee
+4b 4ff#
+!!linebreak:original
+=49
+16%3eL 16%3g 16%3b 16%3ee
+16%3eJ 16%3g 16%3b 16%3ee
+4.g 4.b 4.ee 4.gg
+4f# 4b 4ee 4ff#
+=50||
+8r
+16r
+*8va
+(16bb
+8ccc#L
+8bbJ)
+4r
+8.ccc#L
+16bbJk
+=51
+8.ccc#L
+16bbJk
+8.bbL
+16ggJk
+4gg
+16ff#LL
+16ee
+16ddJJ
+16r
+=52
+8r
+16r
+(16bb
+8ccc#L
+8bbJ)
+8r
+16r
+16bb
+32%3ccc#LL
+32%3ddd
+[16ccc#JJ
+!!linebreak:original
+=53
+8ccc#]
+4bb
+8r
+2r
+=54
+8r
+16r
+(16bb
+8ccc#L
+8bbJ)
+4r
+8.ccc#L
+16bbJk
+=55
+8.ccc#L
+16bbJk
+8.bbL
+16ggJk
+4gg
+16ff#LL
+16ee
+16dd
+16bJJ
+=56
+8r
+16r
+(16bb
+8ccc#L
+8bbJ)
+8r
+16r
+16bb
+32%3ccc#LL
+32%3ddd
+[16fff#JJ
+!!linebreak:original
+=57
+4.fff#]
+*X8va
+2bb
+8r
+=58||
+8f#L 8b
+8f#J 8b
+8f# 8dd
+16gKL 16ee
+8aJ 8ff#
+8r
+8aL 8ff#
+16bk 16ff#
+8ddJ 8ff#
+=59
+8eeL 8gg
+8eeJ 8gg
+8r
+16bLL
+16bJJ
+8eeL 8gg
+16ff#k 16aa
+8ee 8gg
+16ddk 16ff#
+8ddJ 8ff#
+=60
+*^
+8f#L 8b	2ryy
+8f#J 8b	.
+8f# 8dd	.
+16gKL 16ee	.
+8aJ 8ff#	.
+.	8ryy
+8raa	.
+.	16ryy
+8ggL	4b
+16ff#L	.
+16dd	.
+16bJJ	16ryy
+*v	*v
+!!pagebreak:original
+=61
+8bL 8ee
+8bJ 8ee
+4r
+[16%3bL 16%3ee
+16%3b] 16%3dd
+8bJ
+=62
+8f#L 8b
+8f#J 8b
+8f# 8dd
+16gKL 16ee
+8aJ 8ff#
+16r
+16r
+8bL 8aa
+16bk 16gg
+8ddJ 8ff#
+=63
+8eeL 8gg
+8eeJ 8gg
+8r
+16bLL
+16bJJ
+8eeL 8gg
+16ff#k 16aa
+8ee 8gg
+16ddk 16ff#
+8ddJ 8ff#
+=64
+*^
+8f#L 8b	2ryy
+8f#J 8b	.
+8f# 8dd	.
+16gKL 16ee	.
+8aJ 8ff#	.
+.	8ryy
+8raa	.
+.	16ryy
+8ggL	4b
+16ff#L	.
+16dd	.
+16bJJ	16ryy
+*v	*v
+!!linebreak:original
+=65
+8bL 8ee
+8bJ 8ee
+4r
+16%3eeL 16%3eee
+16%3dd 16%3ddd
+8cc#J 8ccc#
+=66!|:
+8b
+16r
+8bL 8ff# 8bb
+16ddk
+8bJ
+8bL 8dd
+8bJ 8ee
+4b 4ff#
+=67
+16%3eL 16%3g 16%3b 16%3ee
+16%3eJ 16%3g 16%3b 16%3ee
+4.g 4.b 4.ee 4.gg
+4f# 4b 4ee 4ff#
+!!linebreak:original
+=68
+8f# 8b
+16r
+8bL 8ff# 8bb
+16ddk
+8bJ
+8bL 8dd
+8bJ 8ee
+4b 4ff#
+=69
+16%3eL 16%3g 16%3b 16%3ee
+16%3eJ 16%3g 16%3b 16%3ee
+4.g 4.b 4.ee 4.gg
+4f# 4b 4ee 4ff#
+=70:|!
+16%3eL 16%3g 16%3b 16%3ee
+16%3eJ 16%3g 16%3b 16%3ee
+4.g 4.b 4.ee 4.gg
+!LO:TX:a:B:t=Solo
+8.ff#L
+16eeJk
+!!linebreak:original
+=71
+8ff#
+16bbLL
+16bJJ
+16f#LL
+16b
+16ddJJ
+8ff#L
+8dd
+16bJk
+16f#LL
+16b
+16dd
+16ff#JJ
+=72
+8gg
+16r
+32ggLLL
+32ff#JJJ
+8ee
+16r
+32eeLLL
+32ddJJJ
+8cc#
+16r
+32cc#LLL
+32bJJJ
+8b-XL
+8bbnJ
+=73
+8ff#
+16r
+8ff#L
+16ddL
+16dd
+16ff#JJ
+8ff#L
+8eeJ
+8.ff#L
+16ff#Jk
+!!linebreak:original
+=74
+8eeL
+16eeL
+16eeJJ
+16eeLL
+16ee
+16ee
+16eeJJ
+12eeL
+12dd
+12eeJ
+8ff#L
+8ddJ
+=75!|:
+!LO:TX:a:B:t=Final
+16bLL
+16f#
+16b
+16cc#JJ
+8.f#L 8.dd
+16f#Jk
+16bLL
+16cc#
+16b 16dd
+16cc#JJ
+12bL 12ee
+12dd
+12cc#J
+=76
+12f#L 12dd
+12f# 12dd
+12eJ 12cc#
+8e 8b
+8r
+2r
+!!linebreak:original
+=77
+16r
+16f#LL
+16b
+16cc#JJ
+8.f#L 8.dd
+16f#Jk
+16bLL
+16cc#J
+8bJ 8dd
+8cc#L 8ff#
+8ddJ 8aa
+=78
+4ee 4gg
+4r
+2r
+=79:|!
+4ee 4gg
+8r
+8r
+16%3eeL 16%3eee
+16%3dd 16%3ddd
+8cc#J 8ccc#
+=80
+1b 1bb
+==
+*-
+!!!system-decoration: {(s1,s2)}
+!!!YEM: © 2019 Piano LED Company. All right reserved. Used by permission.
